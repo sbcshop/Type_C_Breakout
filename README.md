@@ -12,6 +12,11 @@ With a Type-C breakout board, you can perform tasks like power delivery, data tr
 Overall, a Type-C breakout board is a useful tool for working with USB Type-C connectors and exploring the capabilities of Type-C devices in your projects.
 
 
+### Pinouts:
+<img src="https://github.com/sbcshop/Type_C_Breakout/blob/main/images/type%20C%20pinout.jpg">
+
+1)	Pitch 0.1” Header Breakout
+2)	Type C connector 
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Type_C_Breakout/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
