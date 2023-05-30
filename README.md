@@ -13,7 +13,7 @@ Overall, a Type-C breakout board is a useful tool for working with USB Type-C co
 
 
 ### Pinouts:
-<img src="https://github.com/sbcshop/Type_C_Breakout/blob/main/images/type%20C%20pinout.jpg">
+<img src="https://github.com/sbcshop/Type_C_Breakout/blob/main/images/type%20C%20pinout.jpg" width="492" height="161">
 
 1)	Pitch 0.1” Header Breakout
 2)	Type C connector 
