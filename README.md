@@ -1,4 +1,11 @@
 # Type_C_Breakout
+A Type-C breakout board is a hardware component that provides easy access to the pins and functionalities of a USB Type-C connector. Since USB-C is reversible and can deliver up to 1.5 Amps of power, you won't ever have to worry about plugging a cable in the incorrect way again. 
+
+It allows you to interface with Type-C devices, such as smartphones, laptops, or development boards, for various purposes.
+The breakout board typically features a Type-C connector on one end and exposed pins or headers on the other end. These exposed pins provide access to different signals and power lines, like CC1/CC2, SBU1/SBU2, D+/-, 5V and GND. Breakout includes a 0.1" pitch header, allowing for simple breadboard connection.
+
+With a Type-C breakout board, you can perform tasks like power delivery, data transfer, or testing of Type-C functionalities. It enables you to prototype and develop projects that require interfacing with Type-C devices or integrating Type-C functionality into your designs.
+Overall, a Type-C breakout board is a useful tool for working with USB Type-C connectors and exploring the capabilities of Type-C devices in your projects.
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/BME280_Breakout/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
