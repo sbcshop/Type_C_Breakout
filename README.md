@@ -25,15 +25,15 @@ Overall, a Type-C breakout board is a useful tool for working with USB Type-C co
 ## Related Products
   * [Dual USB Breakout](https://shop.sb-components.co.uk/products/dual-usb-breakout?_pos=2&_sid=47418e842&_ss=r) 
    
-     ![dual-usb-breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/DualUSBBreakout3.png?v=1676034428&width=300)   
+     ![dual-usb-breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/DualUSBBreakout3.png?v=1676034428&width=200)   
 
   * [MicroSD Card Breakout](https://shop.sb-components.co.uk/products/sd-card-breakout?_pos=1&_sid=be5068526&_ss=r) 
    
-     ![SDCardBreakout](https://cdn.shopify.com/s/files/1/1217/2104/products/SDCardBreakout.png?v=1643699904&width=300) 
+     ![SDCardBreakout](https://cdn.shopify.com/s/files/1/1217/2104/products/SDCardBreakout.png?v=1643699904&width=200) 
   
-  * [1.14" LCD Breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout?_pos=1&_sid=8dab247c9&_ss=r) 
+  * [BME280 Breakout](https://shop.sb-components.co.uk/products/bme280-breakout-temperature-pressure-humidity-sensor) 
    
-     ![1.14" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/1.14InchLCDBreakout.png?v=1622801461&width=300) 
+     ![BME280_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/BME280.jpg?v=1686831477&width=200) 
 
  
 ## Product License
